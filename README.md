@@ -5,7 +5,7 @@
 (I couldn't get ".." to find file) 
 os.getcwd() https://www.tutorialspoint.com/python/os_getcwd.htm
 
-help from LA breaking down txt file script (I really struggled on this part so provided my code for help breaking down script to produce txt file): 
+help from *Learning Assistant breaking down txt file script (I really struggled on this part so provided my code for help breaking down script to produce txt file): 
 #Open a text file for writing
 
 for PyPoll - code returned and edited (line 50)
